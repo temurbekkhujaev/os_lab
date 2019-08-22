@@ -1,0 +1,28 @@
+    1  clear
+    2  history > his.txt
+    3  ls -r /usr/bin | grep gcc > ex1.txt
+    4  more ex1.txt
+    5  less ex1.txt
+    6  mkdir ~/week1
+    7  cd ~/week1
+    8  ls 
+    9  mv ~/ex1.txt .
+   10  ls
+   11  history > ex2.txt
+   12  echo 'echo date' > ex3.sh
+   13  echo 'echo sleep 3' >> ex3.sh
+   14  sh ex3.sh
+   15  clear ex3.sh
+   16  clear | ex3.sh
+   17  clear > ex3.sh
+   18  more ex3.sh
+   19  rm ex3.sh
+   20  echo 'date' > ex3.sh
+   21  echo 'sleep 3' >> ex3.sh
+   22  sh ex3.sh
+   23  gedit ~/week1/main.c
+   24  gcc main.c -o ex4
+   25  gedit ~/week1/main.c
+   26  gcc main.c -o ex4
+   27  ./ex4
+   28  history > ex2.txt
