@@ -1,0 +1,113 @@
+    1  history
+    2  gedit ~/week2/ex1.c
+    3  mkdir ~/week2
+    4  gedit ~/week2/ex1.c
+    5  cd ~/week2
+    6  ls
+    7  gedit ~/week2/ex1.c
+    8  gcc ex1.c -o ex1
+    9  gedit ~/week2/ex1.c
+   10  gcc ex1.c -o ex1
+   11  gedit ~/week2/ex1.c
+   12  gcc ex1.c -o ex1
+   13  ./ex1.out
+   14  ./ex4
+   15  ./ex1
+   16  gedit ~/week2/ex1.c
+   17  gcc ex1.c -o ex1
+   18  ./ex1
+   19  gedit ~/week2/ex2.c
+   20  gcc ex2.c -o ex2
+   21  ./ex2
+   22  gedit ~/week2/ex2.c
+   23  gcc ex2.c -o ex2
+   24  ./ex2
+   25  gedit ~/week2/ex2.c
+   26  gcc ex2.c -o ex2
+   27  gedit ~/week2/ex2.c
+   28  gcc ex2.c -o ex2
+   29  ./ex4
+   30  ./ex2
+   31  gedit ~/week2/ex2.c
+   32  gcc ex2.c -o ex2
+   33  ./ex2
+   34  gcc ex2.c -o ex2
+   35  ./ex2
+   36  gcc ex2.c -o ex2
+   37  ./ex2
+   38  gcc ex2.c -o ex2
+   39  ./ex2
+   40  gcc ex2.c -o ex2
+   41  ./ex2
+   42  gcc ex2.c -o ex2
+   43  ./ex2
+   44  gcc ex2.c -o ex2
+   45  ./ex2
+   46  gcc ex2.c -o ex2
+   47  ./ex2
+   48  gcc ex3.c -o ex3
+   49  ./ex3 6
+   50  gcc ex3.c -o ex3
+   51  ./ex3 6
+   52  gcc ex3.c -o ex3
+   53  ./ex3 6
+   54  gcc ex3.c -o ex3
+   55  ./ex3 6
+   56  gcc ex3.c -o ex3
+   57  gcc ex3.c -o -w ex3
+   58  gcc ex3.c -o -wall ex3
+   59  gcc ex3.c -o -WALL ex3
+   60  gcc ex3.c -o -W ex3
+   61  gcc ex3.c -o -w ex3
+   62  gcc ex3.c -o -Wformat-security ex3
+   63  gcc ex3.c -o ex3
+   64  ./ex3
+   65  ./ex3 6
+   66  gcc ex3.c -o ex3
+   67  ./ex3 6
+   68  gcc ex3.c -o ex3
+   69  ./ex3 6
+   70  gcc ex3.c -o ex3
+   71  ./ex3 6
+   72  ./ex3 10
+   73  ./ex3 50
+   74  gcc ex4.c -o ex4
+   75  ./ex4
+   76  gcc ex4.c -o ex4
+   77  ./ex4
+   78  gcc ex4.c -o ex4
+   79  ./ex4
+   80  gcc ex4.c -o ex4
+   81  ./ex4
+   82  gcc ex4.c -o ex4
+   83  ./ex4
+   84  gcc ex4.c -o ex4
+   85  gcc ex5.c -o ex5
+   86  ./ex5 6 2
+   87  ./ex5 6 1
+   88  ./ex5 6 2
+   89  ./ex5 6 1
+   90  gcc ex5.c -o ex5
+   91  ./ex5 6 1
+   92  ./ex5 7 1
+   93  ./ex5 6 2
+   94  ./ex5 6 0
+   95  ./ex5 6 1
+   96  ./ex5 6 2
+   97  gcc ex5.c -o ex5
+   98  ./ex5 6 1
+   99  ./ex5 7 1
+  100  ./ex5 7 2
+  101  ./ex5 7 3
+  102  mv . ~/os_lab/
+  103  ..
+  104  cd ..
+  105  mv ~/week2 ~/os_lab/
+  106  cd os_lab
+  107  ls
+  108  cd week2
+  109  ls
+  110  ./ex5
+  111  ./ex5 6 2
+  112  history hist.txt
+  113  history > hist.txt
